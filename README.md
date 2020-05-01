@@ -1,3 +1,3 @@
 # SIMHACK
 
-The codes to the SIMHACk tasks can be found here
+The codes to the SIMHACK tasks can be found here
